@@ -5,7 +5,7 @@ This tool is using python3
 
 
 ```bash
-git clone https://github.com/Skyzz2/ECC-DDoS
+git clone https://github.com/Kaizzzo1/ECC-DDoS.git
 cd ECC-DDoS
 ```
 
